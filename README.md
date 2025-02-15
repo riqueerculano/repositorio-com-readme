@@ -17,5 +17,5 @@ git clone <url>
 
 2 - Acessa a pasta do projeto
 ```
-cd repositori-com-readme
+cd repositorio-com-readme
 ```
